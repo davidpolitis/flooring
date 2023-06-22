@@ -23,7 +23,7 @@
     "db-migrate-pg": "^1.2.2",
     "dotenv": "^12.0.3",
     "fastify": "^3.25.3",
-    "fastify-cli": "^1.5.0",
+    "fastify-cli": "^2.0.0",
     "fastify-env": "^2.1.1",
     "fastify-plugin": "^3.0.0",
     "fastify-postgres": "^3.6.0",
